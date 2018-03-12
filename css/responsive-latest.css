@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@media only screen and (max-width: 480px) and (min-width: 376px){
+.galary_opt.faq.faqall{margin:41px 74px 0;}
+#popup { top: 40% !important; width: 80% !important;}
+#popup img {width: 100% !important;} 
+.month-listing { margin: 0;}
+
+}
+
+
+@media only screen and (max-width: 375px) and (min-width: 0px) {
+	
+.galary_opt.faq.faqall{margin:41px 74px 0;}
+
+#popup { top: 40% !important; width: 80%;}
+#popup img {width: 100%;} 
+.yoga_training .click-here-div > a { font-size: 9px !important;}
+h5.headingcustom strong { font-size: 16px;}
+.yoga_training .click-here-div > a{font-size:9px !important;}
+.month-listing { margin: 20px 0;}
+.click-here-div { float: left; width: 100% !important;}
+.simple-daily-schedule-right {width: 100%;}
+
+}
+
