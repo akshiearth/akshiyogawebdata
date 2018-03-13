@@ -20,7 +20,7 @@ article{color:#000;font-size:16px;font-weight:400;line-height:20px;text-align:ju
 .navigation li{display:inline;margin:0 0 0 17px;}
 .navigation li a{color:#fff;font-size:17px;font-weight:600;text-decoration:none;text-shadow:0 0 1px #000;}
 .nav_btn{background:#f38433 none repeat scroll 0 0;border-radius:5px;padding:6px 12px;}
-.bnr_txt{background:url(../images/TXT-bg.png) repeat;width:70%;margin:50px auto 0;padding:20px 25px;height:260px;}
+.bnr_txt{background:url(https://cdn.rawgit.com/akshiearth/akshiyogawebdata/f17f8878/images/TXT-bg.png) repeat;width:70%;margin:50px auto 0;padding:20px 25px;height:260px;}
 .bnr_txt h1{color:#fff;font-size:38px;font-weight:500;text-align:center;font-family:'Century Gothic';line-height:46px;border-bottom:none;}
 .bnr_txt h2{color:#fff;line-height:30px;font-size:18px;margin:10px 0;text-align:center;font-weight:500;}
 .bnr_txt article{color:#fff;line-height:30px;font-size:18px;margin:10px 0;text-align:center;font-weight:500;}
@@ -31,7 +31,7 @@ article{color:#000;font-size:16px;font-weight:400;line-height:20px;text-align:ju
 .yoga_txt{float:right;width:76%;}
 .yoga_txt article{line-height:31px;}
 .yoga_heading .yttdiv{color:#f38332;font-size:60px;text-transform:uppercase;font-weight:500;line-height:60px;}
-.cource{padding:62px 0 40px;background:url(../images/upcoming-cource.jpg) no-repeat;background-size:cover;}
+.cource{padding:62px 0 40px;background:url(https://cdn.rawgit.com/akshiearth/akshiyogawebdata/f17f8878/images/upcoming-cource.jpg) no-repeat;background-size:cover;}
 .upcoming_cource{width:54%;float:left;}
 .upcoming_cource h5.headingcustom{width:80%;}
 .training li{border-bottom:1px solid #dcdcdc;display:block;list-style:outside none none;padding:18px 19px;width:94%;}
@@ -58,7 +58,7 @@ article{color:#000;font-size:16px;font-weight:400;line-height:20px;text-align:ju
 .special_text h5{text-transform:uppercase;padding-bottom:15px;color:#000;font-size:17px;font-weight:600;}
 .special_text article{padding:0 3%;}
 .more{padding:17px 0;background-color:#fffae4;text-align:center;border-top:1px solid #f2edd6;}
-.read_more{color:#d58138;padding:0 20px;font-size:14px;font-weight:400;background:url(../images/arow.png) right no-repeat;}
+.read_more{color:#d58138;padding:0 20px;font-size:14px;font-weight:400;background:url(https://cdn.rawgit.com/akshiearth/akshiyogawebdata/f17f8878/images/arow.png) right no-repeat;}
 .yoga_training{background:#f1f0f0;text-align:center;padding:40px 0;}
 .yoga_training h2{font-family:"Century Gothic";color:#f38433;padding:0;font-size:32px;font-weight:400;line-height:50px;text-transform:capitalize;}
 .yoga_training article{line-height:26px;padding:15px 0px 35px;}
@@ -70,8 +70,8 @@ article{color:#000;font-size:16px;font-weight:400;line-height:20px;text-align:ju
 .yoga_text > h5{color:#1f1f1f;padding:12px 0 7px;font-size:20px;font-weight:700;}
 .yoga_training ul li article{line-height:20px;padding:0px;min-height:160px;}
 .yoga_training ul li .more{min-height:auto;margin-top:10px;border-top:1px solid #eceeee;padding:17px 0;background:none;}
-.aliance{padding:45px 0 23px;background:url(../images/yoga-alience-certification.jpg) top center no-repeat;background-size:cover;}
-.yogshala-heading{background:rgba(0, 0, 0, 0) url("../images/heading-bg.png") repeat scroll 0 0;color:#fff;font-family:"PT Sans",sans-serif;font-size:28px;font-weight:500;line-height:51px;margin-bottom:28px;padding:0 12px;text-shadow:1px 0 #f38433;text-transform:capitalize;width:60%;}
+.aliance{padding:45px 0 23px;background:url(https://cdn.rawgit.com/akshiearth/akshiyogawebdata/f17f8878/images/yoga-alience-certification.jpg) top center no-repeat;background-size:cover;}
+.yogshala-heading{background:rgba(0, 0, 0, 0) url("https://cdn.rawgit.com/akshiearth/akshiyogawebdata/f17f8878/images/heading-bg.png") repeat scroll 0 0;color:#fff;font-family:"PT Sans",sans-serif;font-size:28px;font-weight:500;line-height:51px;margin-bottom:28px;padding:0 12px;text-shadow:1px 0 #f38433;text-transform:capitalize;width:60%;}
 .aliance h2 em{font-size:42px;font-weight:200;font-style:italic;}
 .aliance img{margin-left:60px;width:39.5%;}
 .yoga_retreat{background:#f1f0f0;}
@@ -80,7 +80,7 @@ article{color:#000;font-size:16px;font-weight:400;line-height:20px;text-align:ju
 .yoga_retreat article{padding:22px 0px 35px;}
 .yoga_retreat ul li article{padding:0;min-height:200px;}
 .yoga_retreat ul li h5{min-height:53px;text-transform:capitalize;}
-.testimonial{padding:67px 0 40px;background:url(../images/testimjonials.jpg) top center no-repeat;background-size:cover;}
+.testimonial{padding:67px 0 40px;background:url(https://cdn.rawgit.com/akshiearth/akshiyogawebdata/f17f8878/images/testimjonials.jpg) top center no-repeat;background-size:cover;}
 .testimonial h1{width:85%;}
 .testimonial h1 strong{}
 .testi_left{float:left;width:41.6%;}
@@ -99,10 +99,10 @@ article{color:#000;font-size:16px;font-weight:400;line-height:20px;text-align:ju
 .news_leter h1{}
 .news_leter h1 strong{}
 .news_leter form{padding:53px 84px 0;}
-.news_leter form .name_news{float:left;margin-right:17px;background:url(../images/name.jpg) right no-repeat;background-color:#ffffff;color:#b2b2b2;width:37%;font-size:14px;padding:14px 10px;font-weight:400;border:1px solid #dedede;line-height:24px;}
-.news_leter form .mail_news{background:url(../images/mail.jpg) right no-repeat;background-color:#fff;}
+.news_leter form .name_news{float:left;margin-right:17px;background:url(https://cdn.rawgit.com/akshiearth/akshiyogawebdata/f17f8878/images/name.jpg) right no-repeat;background-color:#ffffff;color:#b2b2b2;width:37%;font-size:14px;padding:14px 10px;font-weight:400;border:1px solid #dedede;line-height:24px;}
+.news_leter form .mail_news{background:url(https://cdn.rawgit.com/akshiearth/akshiyogawebdata/f17f8878/images/mail.jpg) right no-repeat;background-color:#fff;}
 .news_leter form .subscr{background-color:#f38332;box-shadow:1px 3px 1px 0px rgba(254, 152, 78, 0.75);color:#ffffff;padding:15px 34px;font-size:16px;float:right;font-weight:700;border:none;line-height:19px;text-shadow:0px 1px 1px rgba(106, 52, 14, 0.75);}
-.footer{padding:47px 0 18px;background:url(../images/footer.jpg) top center no-repeat;background-size:cover;}
+.footer{padding:47px 0 18px;background:url(https://cdn.rawgit.com/akshiearth/akshiyogawebdata/f17f8878/images/footer.jpg) top center no-repeat;background-size:cover;}
 .footer article{color:#ffffff;}
 .footer h4{color:#ffffff;font-size:20px;text-transform:uppercase;padding-bottom:28px;font-weight:700;}
 .foot_left{float:left;width:23%;margin-right:17%;}
@@ -183,7 +183,7 @@ article{color:#000;font-size:16px;font-weight:400;line-height:20px;text-align:ju
 .our_faculty ul li{width:23.5%;text-align:center;list-style-type:none;display:inline;float:left;margin-right:17px;}
 .our_faculty ul li:nth-child(4){margin-right:0;}
 .our_faculty ul li img{width:100%;}
-.our_faculty ul li h4{background:url(../images/faculty-h4-back.jpg) bottom center no-repeat;color:#393837;padding:14px 0;font-size:18px;font-weight:700;line-height:23px;}
+.our_faculty ul li h4{background:url(https://cdn.rawgit.com/akshiearth/akshiyogawebdata/f17f8878/images/faculty-h4-back.jpg) bottom center no-repeat;color:#393837;padding:14px 0;font-size:18px;font-weight:700;line-height:23px;}
 .our_faculty ul li article{color:#000;font-size:16px;padding-top:10px;font-weight:400;line-height:23px;text-align:justify;}
 .our_location{background:#fafafa;padding-bottom:60px;}
 .our_location h5{margin-bottom:27px;background-color:#f9f6ef;padding:24px 0 24px 13px;border-bottom:1px solid #f1f0ed;border-top:1px solid #f1f0ed;}
@@ -235,7 +235,7 @@ article.price{color:#767576;}
 .yoga_contain h1{border:none;margin-top:50px;}
 .yoga_contain h1 strong{font-size:22px;font-weight:300;text-transform:none;}
 .schedule{padding-top:75px;}
-.schedule_text{padding:9px;width:37%;background:url(../images/schedul-1.jpg) right no-repeat;background-color:#f38433;}
+.schedule_text{padding:9px;width:37%;background:url(https://cdn.rawgit.com/akshiearth/akshiyogawebdata/f17f8878/images/schedul-1.jpg) right no-repeat;background-color:#f38433;}
 .schedule_text h4{color:#ffffff;line-height:25px;font-size:22px;font-weight:700;}
 .schedule_text article{font-size:18px;color:#ffffff;font-weight:300;}
 .time_table{margin-bottom:25px;background-color:#ffffff;border:11px solid #f38433;width:80%;position:relative;padding:10px 30px;}
@@ -246,7 +246,7 @@ article.price{color:#767576;}
 .time_table ul li strong{font-size:17px;font-weight:600;}
 .time_table ul li:nth-child(1){padding:10px 0;border-top:none;}
 .wednes_day{margin-top:20px;}
-.wednes_day .schedule_text{padding:22px 0 23px 70px;float:right;background:#f38433 url(../images/wenesday.jpg) left no-repeat;}
+.wednes_day .schedule_text{padding:22px 0 23px 70px;float:right;background:#f38433 url(https://cdn.rawgit.com/akshiearth/akshiyogawebdata/f17f8878/images/wenesday.jpg) left no-repeat;}
 .wednes_day .time_table{float:right;}
 .wednes_day .time_table ul li span{text-align:right;}
 .wednes_day .time_table ul li article{padding-left:160px;}
@@ -364,7 +364,7 @@ input.submitbutton{background-color:#f38332;border:medium none;box-shadow:1px 3p
 input.phnumber{float:left;width:77%;}
 select.phcode{float:left;width:20%;}
 #menu li{position:relative;}
-#menu .sub-menu{display:none;position:absolute;left:0;text-align:left;margin:0;width:208px;background:url(../images/drop-arrow.png) no-repeat left top !important;padding:5px;border-radius:5px;}
+#menu .sub-menu{display:none;position:absolute;left:0;text-align:left;margin:0;width:208px;background:url(https://cdn.rawgit.com/akshiearth/akshiyogawebdata/f17f8878/images/drop-arrow.png) no-repeat left top !important;padding:5px;border-radius:5px;}
 #menu .sub-menu li{float:left;margin-left:-5px;width:100%;}
 #menu .sub-menu li a{background:#fff;padding:5px 8px;width:100%;float:left;color:#000;}
 #menu .sub-menu li a:hover{color:#fff;background:#f38433;}
@@ -389,7 +389,7 @@ header.sticky .navigation li .sub-menu a{color:#fff;}
 .hide{opacity:0;top:-100%;display:none;}
 .show{opacity:1;top:0;left:0;}
 .header_yoga{padding-top:6px;}
-ul.termcondition li{background:rgba(0, 0, 0, 0) url("../images/hight-li-back.jpg") no-repeat scroll left center;color:#000;display:inline;float:left;font-size:16px;list-style-type:none;margin-top:22px;padding-left:20px;width:98%;}
+ul.termcondition li{background:rgba(0, 0, 0, 0) url("https://cdn.rawgit.com/akshiearth/akshiyogawebdata/f17f8878/images/hight-li-back.jpg") no-repeat scroll left center;color:#000;display:inline;float:left;font-size:16px;list-style-type:none;margin-top:22px;padding-left:20px;width:98%;}
 .our_faculty ul.stafflist li{margin-right:30px;width:30.5%;}
 .stafftext{margin-bottom:20px;text-align:justify;}
 .training li:hover{background:#fcf4e2;}
