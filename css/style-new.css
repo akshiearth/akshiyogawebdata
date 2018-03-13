@@ -13,7 +13,7 @@ h5.headingcustom strong{background-image:-webkit-linear-gradient(90deg, #eb6f15 
 body{font-family:'PT Sans', sans-serif;background:#f1f0f0;}
 article{color:#000;font-size:16px;font-weight:400;line-height:20px;text-align:justify;}
 .wrapper{width:1170px;margin:0 auto;}
-.header_bg{padding:12px 0 258px;background:url(../images/yoga-teacher-training-rishikesh.jpg) top center no-repeat;background-size:cover;}
+.header_bg{padding:12px 0 258px;background:url(https://cdn.rawgit.com/akshiearth/akshiyogawebdata/f17f8878/images/yoga-teacher-training-rishikesh.jpg) top center no-repeat;background-size:cover;}
 .navigation{float:right;padding:26px 0;}
 .logo{float:left;width:11.2%;}
 .logo img{width:100%;}
